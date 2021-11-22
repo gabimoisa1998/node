@@ -7,7 +7,7 @@
 	"dependencies": {
 		"express": "^4.16.4",
 		"moment": "^2.10.2",
-		"package": "MAJOR.MINOR.PATCH"
+		"dependency1": "^major.minor.patch"
 	  },
 	"main": "server.js",
 	"scripts": {
