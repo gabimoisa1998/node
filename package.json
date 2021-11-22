@@ -1,12 +1,13 @@
 {"author": "Jane Doe",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js",
-		"description": "A project that does something awesome"
+		"start": "node server.js"
+		
 	},
 	"repository": {
 		"type": "git",
